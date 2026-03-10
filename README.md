@@ -1,4 +1,4 @@
-## 📚 Conteúdo do Curso
+## Conteúdo do Curso
 
 Nesta seção, documento o progresso inicial no curso de Ciência de Dados e Estatística, focando em lógica, probabilidade e manipulação de dados com Python.
 
