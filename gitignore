@@ -1,0 +1,21 @@
+# Ambiente Virtual
+venv/
+env/
+.env
+bin/
+lib/
+share/
+pyvenv.cfg
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Outros (opcional)
+.DS_Store
+
